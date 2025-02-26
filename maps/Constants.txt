@@ -1,0 +1,11 @@
+
+//Change these parameters for change in simulation.
+
+totalTrees=5
+maximumAmmountOfBuildings=1
+maximumScouts=4
+maximumBuilders=1
+maximumCoalMiners=1
+totalWorkers=50
+simulationSpeed=1000.0
+speed=1.0
